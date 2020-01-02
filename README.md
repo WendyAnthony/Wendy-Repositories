@@ -14,6 +14,8 @@
 
 ## Webpage
 ### https://github.com/WendyAnthony/WendyAnthony.github.io
+### https://wendyanthony.github.io/
 
 ## Resources
 ### https://github.com/WendyAnthony/R-Resource-Links
+### https://wendyanthony.github.io/R_Stats_Links-io.html
