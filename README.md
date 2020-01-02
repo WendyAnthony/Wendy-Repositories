@@ -14,3 +14,6 @@
 
 ## Webpage
 ### https://github.com/WendyAnthony/WendyAnthony.github.io
+
+## Resources
+### https://github.com/WendyAnthony/R-Resource-Links
