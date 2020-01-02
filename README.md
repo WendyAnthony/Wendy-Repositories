@@ -7,7 +7,7 @@
 
 ## Code Stuff
 ### [100 Days of Code](https://github.com/WendyAnthony/100-days-of-code/blob/master/Code-Projects-2020.md)  
-### [My Code](https://github.com/WendyAnthony/100-days-of-code/tree/master/My-Code)
+### [My 100-Days-Of-Code Code](https://github.com/WendyAnthony/100-days-of-code/tree/master/My-Code)
 
 
 ## Geospatial Analysis
