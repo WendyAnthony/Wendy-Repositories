@@ -15,7 +15,7 @@
 
 ## Code Stuff <a name="code"/>
 **[100 Days of Code](https://github.com/WendyAnthony/100-days-of-code/blob/master/Code-Projects-2020.md)**  
-**[My 100-Days-Of-Code Code](https://github.com/WendyAnthony/100-days-of-code/tree/master/My-Code)**  
+  **[My 100-Days-Of-Code Code](https://github.com/WendyAnthony/100-days-of-code/tree/master/My-Code)**  
 
 [TOC](#TOC)
 
@@ -26,12 +26,12 @@
 
 ## Webpage <a name="webpage"/>
 **https://github.com/WendyAnthony/WendyAnthony.github.io**  
-**https://wendyanthony.github.io/**  
+  **https://wendyanthony.github.io/**  
 
 [TOC](#TOC)
 
 ## Resources <a name="resources"/>
 **https://github.com/WendyAnthony/R-Resource-Links**  
-**https://wendyanthony.github.io/R_Stats_Links-io.html**  
+  **https://wendyanthony.github.io/R_Stats_Links-io.html**  
   
 [TOC](#TOC)
