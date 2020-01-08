@@ -14,8 +14,8 @@
 [TOC](#TOC)
 ***
 ## Code Stuff <a name="code"/>
-- **[100 Days of Code](https://github.com/WendyAnthony/100-days-of-code/blob/master/Code-Projects-2020.md)**  
-    - **[My 100-Days-Of-Code Code](https://github.com/WendyAnthony/100-days-of-code/tree/master/My-Code)**  
+- **[My Code A Day](https://github.com/WendyAnthony/Code_Each_Day)**  
+    - **[My Code for Code-A-Day](https://github.com/WendyAnthony/Code_Each_Day/blob/master/Code-Projects-2020.md)**  
 
 [TOC](#TOC)
 ***
