@@ -1,24 +1,24 @@
 # Wendy-Repositories
 
 # Table of Contents  <a name="TOC"/>
-[Shiny](#shiny)  
 [Code](#code)  
+[Shiny](#shiny)  
 [Geo Spatial Analysis](#geo-spat-analysis)  
 [Webpages](#webpage)  
 [Resources](#resources)  
 
-## Shiny <a name="shiny"/>
-- **[Shiny Victoria CMA Household Census](https://wendyanthony.shinyapps.io/VicCensusApp/)**  
-- **[Shiny Stuff Repository](https://github.com/WendyAnthony/ShinyStuff)**  
-
-[TOC](#TOC)
-***
 ## Code Stuff <a name="code"/>
 - **[My Code A Day](https://github.com/WendyAnthony/Code_Each_Day)**  
     - **[My Code](https://github.com/WendyAnthony/Code_Each_Day/tree/master/My_Code)**
     - **[My Log of code done each day of the Challenge - Round 1: 2020](https://github.com/WendyAnthony/Code_Each_Day/blob/master/Code-Projects-2020.md)**
     - **[My Log of code done each day of the Challenge - Round 2: 2021](https://github.com/WendyAnthony/Code_Each_Day/blob/master/Code-Projects-2021.md)**
     
+
+[TOC](#TOC)
+***
+## Shiny <a name="shiny"/>
+- **[Shiny Victoria CMA Household Census](https://wendyanthony.shinyapps.io/VicCensusApp/)**  
+- **[Shiny Stuff Repository](https://github.com/WendyAnthony/ShinyStuff)**  
 
 [TOC](#TOC)
 ***
